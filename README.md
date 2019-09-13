@@ -1,3 +1,4 @@
 # Data-Preprocessing
 Data preprocessing
-#Internship Work
+# Internship Work
+campared various feature_selecting methods
